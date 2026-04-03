@@ -3,7 +3,15 @@ package estructura_de_datos;
 public class Arreglos {
     /*LOS ARREGLOS NO DINAMICO SE USAN CUANDO SABEMOS LA CANTIDAD DE ELEMENTOS QUE VAMOS A USAR
     * Y SIN DE TIPO DE DATOS PRIMITIVOS, POR ENDE NO PODEMOS USAR METODOS*/
-    int[] numero = new int[5];
+    static void main() {
+        int number = 10;
+        int[] numero = new int[number];
 
-    numero[0] = 10;
+        numero[0] = 1;
+
+        for (int knumero: numero) {
+            System.out.println(numero);
+        }
+    }
+
 }
