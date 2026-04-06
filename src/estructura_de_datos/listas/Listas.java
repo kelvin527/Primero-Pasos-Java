@@ -1,4 +1,4 @@
-package estructura_de_datos;
+package estructura_de_datos.listas;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.ArrayList;

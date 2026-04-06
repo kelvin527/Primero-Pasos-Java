@@ -1,4 +1,4 @@
-package estructura_de_datos;
+package estructura_de_datos.listas;
 import java.util.*;
 
 public class Linkendlist_vs_Arraylis_Redimieto {

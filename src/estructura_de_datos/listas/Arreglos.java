@@ -1,4 +1,4 @@
-package estructura_de_datos;
+package estructura_de_datos.listas;
 
 public class Arreglos {
     /*LOS ARREGLOS NO DINAMICO SE USAN CUANDO SABEMOS LA CANTIDAD DE ELEMENTOS QUE VAMOS A USAR
